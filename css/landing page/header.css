@@ -5,3 +5,7 @@ header a {
    color:#4C44C1;
    text-decoration: none;
 }
+header .logo{
+    display: inline-block;
+    float: left;
+}
