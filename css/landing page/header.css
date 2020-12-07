@@ -16,6 +16,10 @@ header .logo{
     display: inline-block;
     float: left;
 }
+header .logo img{
+    width: 40px;
+
+}
 header .menu{
     display: inline-block;
     float: left;
