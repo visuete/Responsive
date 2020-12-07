@@ -2,6 +2,12 @@ header {
     padding: 30px 0px;
     background-color: maroon;
 }
+header:after {
+    content:"";
+    display: table;
+    clear: both;
+
+}
 header a {
    color:#4C44C1;
    text-decoration: none;
