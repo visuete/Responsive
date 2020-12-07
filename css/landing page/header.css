@@ -21,8 +21,7 @@ header .menu{
     float: left;
 }
 header .menu a{
-    text-decoration: none;
-    text-transform: uppercase;
+       text-transform: uppercase;
 }
 header .header-buttons{
     display: inline-block;
