@@ -1,5 +1,6 @@
 header {
     padding: 30px 0px;
+    background-color: maroon;
 }
 header a {
    color:#4C44C1;
@@ -15,5 +16,5 @@ header .menu{
 }
 header .header-buttons{
     display: inline-block;
-    float: left;
+    float: right;
 }
