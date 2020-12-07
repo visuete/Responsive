@@ -20,6 +20,10 @@ header .menu{
     display: inline-block;
     float: left;
 }
+header .menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
 header .header-buttons{
     display: inline-block;
     float: right;
