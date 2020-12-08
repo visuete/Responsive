@@ -34,3 +34,9 @@ header .header-buttons{
     display: inline-block;
     float: right;
 }
+header .header-buttons .blue-btn {
+    background: #4C44C1;
+    padding: 25px 25px;
+    color: white;
+    
+}
