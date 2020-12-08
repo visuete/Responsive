@@ -36,7 +36,8 @@ header .header-buttons{
 }
 header .header-buttons .blue-btn {
     background: #4C44C1;
-    padding: 25px 25px;
+    padding: 10px 40px;
     color: white;
+    border-radius: 35px;
     
 }
