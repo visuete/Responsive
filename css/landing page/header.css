@@ -39,5 +39,6 @@ header .header-buttons .blue-btn {
     padding: 10px 40px;
     color: white;
     border-radius: 35px;
+    text-transform: uppercase;
     
 }
